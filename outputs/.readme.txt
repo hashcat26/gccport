@@ -1,0 +1,3 @@
+// ===== NOTE ===== //
+Place or save your compiled C++ programs (.out) in this folder.
+Execute your compiled C++ programs by running: .\outputs\filename.out

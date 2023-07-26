@@ -1,0 +1,3 @@
+// ===== NOTE ===== //
+Place or save your C++ program source codes (.cpp) in this folder.
+Compile your C++ programs by running: g++ inputs\filename.cpp -o outputs\filename.out
