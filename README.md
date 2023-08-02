@@ -1,4 +1,4 @@
-# gccport [![Version](https://img.shields.io/badge/gcc-v.13.1.0-31BD50?logo=gnu)](https://github.com/niXman/mingw-builds-binaries/releases/tag/13.1.0-rt_v11-rev1)
+# gccport [![Version](https://img.shields.io/badge/gcc-v.13.1.0-31BD50?logo=gnu&logoColor=F5F5F5)](https://github.com/niXman/mingw-builds-binaries/releases/tag/13.1.0-rt_v11-rev1)
 MinGW GCC and Sublime Text portable SFX installer created using [WinRAR](https://www.win-rar.com).
 
 Getting the file:
