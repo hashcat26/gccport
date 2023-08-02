@@ -1,4 +1,4 @@
-# Hashcat's Compiler Installer
+# gccport
 MinGW GCC and Sublime Text portable installer created using [WinRAR](https://www.win-rar.com).
 
 Getting the file:
