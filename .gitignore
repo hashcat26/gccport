@@ -4,3 +4,6 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+inputs/*.cpp
+outputs/*.out
