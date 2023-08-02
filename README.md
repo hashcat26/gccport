@@ -1,4 +1,4 @@
-# gccport
+# gccport [![Tester](https://github.com/hashcat26/gccport/actions/workflows/tester.yml/badge.svg)](https://github.com/hashcat26/gccport/actions/workflows/tester.yml)
 MinGW GCC and Sublime Text portable installer created using [WinRAR](https://www.win-rar.com).
 
 Getting the file:
