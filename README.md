@@ -7,4 +7,4 @@ To get the file, run `curl -kO https://raw.githubusercontent.com/hashcat26/gccpo
 
 Performing installation:
 ---------------------------------
-To perform portable installation, do `./workspace.exe`.
+To perform portable installation of the compiler and the text editor, do `./workspace.exe`.
