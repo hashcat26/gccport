@@ -1,4 +1,4 @@
-# gccport [![Tester](https://img.shields.io/gcc/v/gcc.svg?logo=gnu)](https://github.com/niXman/mingw-builds-binaries/releases)
+# gccport [![Tester](https://img.shields.io/gnu/v/gnu.svg?logo=gnu)](https://github.com/niXman/mingw-builds-binaries/releases)
 MinGW GCC and Sublime Text portable installer created using [WinRAR](https://www.win-rar.com).
 
 Getting the file:
