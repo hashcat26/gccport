@@ -27,5 +27,5 @@ path %path%;%mingwPath%;%sublimePath%;
 path %path%;%inputsPath%;%outputsPath%;
 
 start /b cmd /k start /b subl -a .
-echo MinGW GCC v.13.1.0
+echo MinGW GCC v.13.2.0
 echo Sublime Text b.4169
